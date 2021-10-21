@@ -1,5 +1,4 @@
 # Drumkit
-Mini projeto Drum kit
 
 Mini projeto Javascript
 
